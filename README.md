@@ -6,7 +6,9 @@ A new Flutter project.
 
 This repository is a Flutter playground for demo applications.
 
-To run the apps, navigate to a specific project and run 'flutter run'.
+To run the apps, navigate to a specific project and `flutter run`
+
+To run the diagnostics first, do `flutter doctor`
 
 ### References
 
