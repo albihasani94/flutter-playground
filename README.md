@@ -6,6 +6,8 @@ A new Flutter project.
 
 This repository is a Flutter playground for demo applications.
 
+To run the apps, navigate to a specific project and run 'flutter run'.
+
 ### References
 
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
